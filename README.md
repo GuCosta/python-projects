@@ -1,3 +1,3 @@
 # python-projects
 
-knowledge application in python
+Knowledge application in python
